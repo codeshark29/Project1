@@ -1,3 +1,5 @@
+./ This is a Simple Calculator ./
+
 import java.util.Scanner;
 
  public class calculator
